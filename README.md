@@ -1,4 +1,4 @@
-# Trax &mdash; Deep Learning with Clear Code and Speed
+# Trax（特拉克斯） &mdash; Deep Learning with Clear Code and Speed （整洁快速的深度学习框架）
 
 ![train tracks](https://images.pexels.com/photos/461772/pexels-photo-461772.jpeg?dl&fit=crop&crop=entropy&w=32&h=21)
 [![PyPI
